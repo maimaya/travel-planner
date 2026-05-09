@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 760" role="img" aria-label="Travel globe illustration">
+  <defs>
+    <radialGradient id="warmGlow" cx="50%" cy="46%" r="62%">
+      <stop offset="0%" stop-color="#fff7ec" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff7ec" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ocean" x1="210" y1="170" x2="555" y2="565">
+      <stop offset="0%" stop-color="#b9dce3"/>
+      <stop offset="100%" stop-color="#8dbdcb"/>
+    </linearGradient>
+    <linearGradient id="land" x1="250" y1="170" x2="520" y2="565">
+      <stop offset="0%" stop-color="#d8e5b5"/>
+      <stop offset="100%" stop-color="#9fc58e"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#c7a585" flood-opacity="0.22"/>
+    </filter>
+    <style>
+      .line{fill:none;stroke:#8f8378;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+      .thin{fill:none;stroke:#8f8378;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+      .cream{fill:#fff6e8}
+      .sand{fill:#ead3ad}
+      .coral{fill:#e99378}
+      .green{fill:#9bc481}
+      .leaf{fill:#8db773}
+      .blue{fill:#9ccbd4}
+      .mint{fill:#8fc8bd}
+    </style>
+  </defs>
+
+  <circle cx="380" cy="380" r="350" fill="url(#warmGlow)"/>
+
+  <g filter="url(#softShadow)">
+    <g transform="rotate(-16 164 316)">
+      <path class="sand" d="M111 211h76l18 214h-112z"/>
+      <path class="line" d="M111 211h76l18 214h-112z"/>
+      <path class="thin" d="M122 250h68M118 291h76M113 333h84M108 374h94"/>
+      <path class="thin" d="M134 226v27M158 224v27M128 265v28M154 265v28M181 264v28"/>
+    </g>
+
+    <g transform="rotate(-34 122 474)">
+      <path class="sand" d="M84 383l50-93 51 93z"/>
+      <path class="line" d="M84 383l50-93 51 93z"/>
+      <path class="sand" d="M142 410l43-82 45 82z"/>
+      <path class="line" d="M142 410l43-82 45 82z"/>
+      <path class="thin" d="M132 332l-6 35M184 363l-8 28"/>
+    </g>
+
+    <g transform="rotate(-27 113 382)">
+      <path class="sand" d="M72 291l44-22 76 151-44 22z"/>
+      <path class="line" d="M72 291l44-22 76 151-44 22z"/>
+      <path class="cream" d="M100 301l26-13 23 47-26 13z"/>
+      <circle cx="123" cy="318" r="15" fill="#fff7ec" stroke="#8f8378" stroke-width="5"/>
+      <path class="thin" d="M123 309v10l8 6"/>
+    </g>
+
+    <g transform="translate(238 62)">
+      <path class="cream" d="M33 70C28 30 74 6 104 32c29 25 13 69-20 84z"/>
+      <path class="line" d="M33 70C28 30 74 6 104 32c29 25 13 69-20 84z"/>
+      <path class="mint" d="M52 19c-11 28-10 54 6 82"/>
+      <path class="coral" d="M76 17c10 29 8 57-7 86"/>
+      <path class="thin" d="M41 77h51M58 109h25l-4 31H62z"/>
+    </g>
+
+    <g transform="translate(308 62)">
+      <path class="cream" d="M23 126h142V79c-16-25-38-41-70-48-31 7-54 23-72 48z"/>
+      <path class="line" d="M23 126h142V79c-16-25-38-41-70-48-31 7-54 23-72 48z"/>
+      <path class="thin" d="M47 126V79M142 126V79M73 126V91h44v35M58 72c9-24 25-38 37-51 13 13 29 27 37 51"/>
+      <path class="thin" d="M12 126V81M176 126V81M28 91h-16M176 91h-16"/>
+    </g>
+
+    <g transform="rotate(12 535 108)">
+      <path class="line coral" d="M472 95h155"/>
+      <path class="line" d="M493 68v103M603 68v103M508 74c26 47 55 47 82 0M508 151c26-47 55-47 82 0"/>
+      <path class="thin" d="M493 88l110 62M603 88l-110 62"/>
+    </g>
+
+    <g transform="rotate(23 616 278)">
+      <path class="mint" d="M590 150l48 196h-96z"/>
+      <path class="line" d="M590 150l48 196h-96z"/>
+      <path class="thin" d="M568 242h44M557 286h66M580 194h20M559 346h62"/>
+    </g>
+
+    <g transform="translate(606 405)">
+      <path class="mint" d="M40 25c20 13 24 39 15 60h-30c-9-21-5-47 15-60z"/>
+      <path class="line" d="M40 25c20 13 24 39 15 60h-30c-9-21-5-47 15-60z"/>
+      <path class="thin" d="M40 8v23M28 17l12 14 13-14M25 85h30M18 110h44"/>
+    </g>
+
+    <g transform="translate(466 588)">
+      <path class="cream" d="M18 71c23-54 50-73 75-78 27 40 12 78-19 106z"/>
+      <path class="line" d="M18 71c23-54 50-73 75-78 27 40 12 78-19 106z"/>
+      <path class="cream" d="M84 93c27-50 63-60 99-50 8 40-20 70-72 85z"/>
+      <path class="line" d="M84 93c27-50 63-60 99-50 8 40-20 70-72 85z"/>
+      <path class="thin" d="M14 130h186"/>
+    </g>
+
+    <g transform="rotate(3 351 654)">
+      <path class="sand" d="M275 626h142l17 66H257z"/>
+      <path class="line" d="M275 626h142l17 66H257z"/>
+      <path class="thin" d="M286 650h120M291 671h119M303 636v27M333 636v27M363 636v27M393 636v27"/>
+    </g>
+
+    <g transform="translate(88 258)">
+      <path class="cream" d="M9 36c0-18 17-31 35-25C54-6 81-2 88 19c17-2 31 11 31 28 0 18-16 31-36 31H30C17 78 6 67 6 53c0-6 1-11 3-17z"/>
+      <path class="line" d="M9 36c0-18 17-31 35-25C54-6 81-2 88 19c17-2 31 11 31 28 0 18-16 31-36 31H30C17 78 6 67 6 53c0-6 1-11 3-17z"/>
+    </g>
+    <g transform="translate(600 268)">
+      <path class="cream" d="M9 36c0-18 17-31 35-25C54-6 81-2 88 19c17-2 31 11 31 28 0 18-16 31-36 31H30C17 78 6 67 6 53c0-6 1-11 3-17z"/>
+      <path class="line" d="M9 36c0-18 17-31 35-25C54-6 81-2 88 19c17-2 31 11 31 28 0 18-16 31-36 31H30C17 78 6 67 6 53c0-6 1-11 3-17z"/>
+    </g>
+
+    <circle cx="380" cy="399" r="242" fill="url(#ocean)" stroke="#8f8378" stroke-width="8"/>
+    <path fill="url(#land)" stroke="#7f9c7e" stroke-width="5" d="M249 235c31-22 75-24 102 0 22 20 8 42-22 38-22-3-36 10-35 31 2 32-34 38-57 14-29-31-22-61 12-83zM203 351c23-17 53-2 52 26-1 25 27 34 49 28 29-9 62 11 68 43 6 31-20 60-54 57-41-4-50-51-83-57-27-4-52 10-72 36-18-45-11-101 40-133zM411 196c49-11 90 13 111 57-35 2-48 33-36 58 12 26-8 52-40 48-33-4-43-36-25-61 18-25-14-45-35-34-25 13-46-8-38-34 6-17 25-27 63-34zM424 416c40-13 91 6 116 43 28 41 10 91-36 109-44-41-98-65-139-42-18-42 13-94 59-110z"/>
+    <path class="thin" d="M366 177c-41 120-37 269 13 463M206 406c102 22 238 24 358-3M246 258c84 34 181 41 277 16" opacity=".45"/>
+
+    <g transform="translate(111 501)">
+      <path class="leaf" d="M48 5c-18 15-28 33-30 55 14-18 31-27 52-29-5-10-12-19-22-26z"/>
+      <path class="thin" d="M37 33v76"/>
+      <path class="sand" d="M9 118c34-20 69-20 103 0"/>
+      <path class="line" d="M9 118c34-20 69-20 103 0"/>
+    </g>
+  </g>
+</svg>
